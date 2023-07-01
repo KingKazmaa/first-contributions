@@ -663,6 +663,7 @@ nowy wpis
 - [Rizel](https://github.com/blackgirlbytes)
 - [Lukas Walczak](https://github.com/walclu)
 - [Vladyslav Nechytailo](https://github.com/Nutopia13)
+- [Jerrard Rolle-Stewart](https://github.com/KingKazmaa)
 - [Miguel Camitoc](https://github.com/mcamitoc)
 - [astrokit](https://github.com/astrokit)
 - [Pablo Pradillos](https://github.com/ppradillos)
